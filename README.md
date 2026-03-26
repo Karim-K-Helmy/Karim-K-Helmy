@@ -49,12 +49,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Karim's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Karim's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karim-K-Helmy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Karim's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karim-K-Helmy&theme=radical" alt="Karim's GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karim-K-Helmy&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---

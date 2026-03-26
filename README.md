@@ -1,14 +1,11 @@
 <div align="center" width="50">
-<h1 align="center">Hey there 👋, I'm Karim karam Helmy </h1>
+<h1 align="center">Hey there 👋, I'm Karim Karam Helmy </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MEAN+Stack+Specialist;Problem+Solver;Passionate+about+Learning+and+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Problem+Solver;Passionate+about+Learning+and+Building" />
 </p>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
-
-
-
 
 </div>
 
@@ -16,17 +13,15 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Full-Stack Developer specialized in **MEAN Stack** (MongoDB, Express.js, Angular, Node.js)  
-🧠 Strong foundation in **C++**, **Data Structures**, **Algorithms**, and **OOP**  
-🎯 Passionate about **Problem Solving**, **UI design**, and **Clean Code**  
-📈 Constantly learning and improving myself 
+🎓 I'm a Full-Stack Developer specialized in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+🧠 Strong foundation in **C++**, **Data Structures**, **Algorithms**, and **OOP** 🎯 Passionate about **Problem Solving**, **UI design**, and **Clean Code** 📈 Constantly learning and improving myself 
 
 
 ## 🚀 Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -39,7 +34,6 @@
 
 ## 📚 Core Knowledge
 
-
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Programming-blueviolet?style=flat)
@@ -51,6 +45,20 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Karim's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Karim's GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
 ## ☕ Hobbies
 
 - ♟️ Chess and strategic thinking  
@@ -60,13 +68,12 @@
 
 ---
 
-
 ```js
 // about me
 
 const aboutMe = {
-  name: "Your Name",
-  stack: ["MongoDB", "Express.js", "Angular", "Node.js"],
+  name: "Karim Karam Helmy",
+  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
   frontend: ["Bootstrap", "Tailwind", "HTML", "CSS"],
   foundation: ["C++", "DSA", "OOP", "Problem Solving", "SQL"],
   tools: ["Git", "VSCode"],

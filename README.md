@@ -2,10 +2,10 @@
 <h1 align="center">Hey there 👋, I'm Karim Karam Helmy </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Problem+Solver;Passionate+about+Learning+and+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Problem+Solver;Passionate+about+Learning+and+Building" alt="Typing SVG" />
 </p>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+<img src="https://raw.githubusercontent.com/7a6163/7a6163/main/gifs/coding.gif" alt="Workspace" width="40%"/><br> 
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Full-Stack Developer specialized in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+🎓 I'm a Full-Stack Developer specialized in **MERN Stack** (MongoDB, Express.js, React, Node.js)  
 🧠 Strong foundation in **C++**, **Data Structures**, **Algorithms**, and **OOP** 🎯 Passionate about **Problem Solving**, **UI design**, and **Clean Code** 📈 Constantly learning and improving myself 
 
 
@@ -21,7 +21,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -73,7 +73,7 @@
 
 const aboutMe = {
   name: "Karim Karam Helmy",
-  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
+  stack: ["MongoDB", "Express.js", "React", "Node.js"],
   frontend: ["Bootstrap", "Tailwind", "HTML", "CSS"],
   foundation: ["C++", "DSA", "OOP", "Problem Solving", "SQL"],
   tools: ["Git", "VSCode"],

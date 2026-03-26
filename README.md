@@ -1,11 +1,14 @@
-<div align="center">
-<h1 align="center">Hey there 👋, I'm Karim Karam Helmy </h1>
+<div align="center" width="50">
+<h1 align="center">Hey there 👋, I'm Karim karam Helmy </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Problem+Solver;Passionate+about+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;MEAN+Stack+Specialist;Problem+Solver;Passionate+about+Learning+and+Building" />
 </p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp4ZzRyeGZicm01eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04bOWYBy6dVHcZv5p/giphy.gif" alt="Coding" width="350"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+
+
+
 
 </div>
 
@@ -13,14 +16,17 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Full-Stack Developer specialized in **MERN Stack** (MongoDB, Express.js, React, Node.js)  
-🧠 Strong foundation in **C++**, **Data Structures**, **Algorithms**, and **OOP** 🎯 Passionate about **Problem Solving**, **UI design**, and **Clean Code** 📈 Constantly learning and improving myself 
+🎓 I'm a Full-Stack Developer specialized in **Mern Stack** (MongoDB, Express.js, Angular, Node.js)  
+🧠 Strong foundation in **C++**, **Data Structures**, **Algorithms**, and **OOP**  
+🎯 Passionate about **Problem Solving**, **UI design**, and **Clean Code**  
+📈 Constantly learning and improving myself 
+
 
 ## 🚀 Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-007ACC?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -31,29 +37,37 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Core Knowledge
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karim-K-Helmy&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Karim's Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karim-K-Helmy&layout=compact&theme=dark" alt="Top Langs" />
-</div>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Programming-blueviolet?style=flat)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-important?style=flat&logo=leetcode&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-critical?style=flat)
+![Algorithms](https://img.shields.io/badge/Algorithms-critical?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## ☕ Hobbies
 
-- ♟️ Chess and strategic thinking  
-- 🎮 Playing Video Games and competitive strategy games  
-- 🎧 Lo-fi + deep focus while coding  
-- 🧩 Solving logic puzzles and challenges  
+- ♟️ Chess and strategic thinking  
+- 🎮 Playing Video Games and competitive strategy games  
+- 🎧 Lo-fi + deep focus while coding  
+- 🧩 Solving logic puzzles and challenges  
 
 ---
 
+
 ```js
+// about me
+
 const aboutMe = {
-  name: "Karim Karam Helmy",
-  stack: ["MongoDB", "Express.js", "React", "Node.js"],
-  foundation: ["C++", "DSA", "OOP", "SQL"],
-  tools: ["Git", "VSCode"]
+  name: "Your Name",
+  stack: ["MongoDB", "Express.js", "Angular", "Node.js"],
+  frontend: ["Bootstrap", "Tailwind", "HTML", "CSS"],
+  foundation: ["C++", "DSA", "OOP", "Problem Solving", "SQL"],
+  tools: ["Git", "VSCode"],
 };
